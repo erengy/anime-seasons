@@ -7,8 +7,8 @@
 	<anime>
 		<type>1</type>
 		<id name="myanimelist">33933</id>
-		<id name="hummingbird"/>
-		<producers/>
+		<id name="hummingbird">12651</id>
+		<producers>DLE, Sony Music Entertainment</producers>
 		<image>https://myanimelist.cdn-dena.com/images/anime/10/81641.jpg</image>
 		<title>Yasamura Yasashi no Yasashii Sekai</title>
 	</anime>
@@ -71,7 +71,7 @@
 	<anime>
 		<type>5</type>
 		<id name="myanimelist">34060</id>
-		<id name="hummingbird"/>
+		<id name="hummingbird">12649</id>
 		<producers/>
 		<image>https://myanimelist.cdn-dena.com/images/anime/4/82024.jpg</image>
 		<title>Dead World</title>
@@ -199,7 +199,7 @@
 	<anime>
 		<type>1</type>
 		<id name="myanimelist">33727</id>
-		<id name="hummingbird"/>
+		<id name="hummingbird">12652</id>
 		<producers>Kachidoki Studio</producers>
 		<image>https://myanimelist.cdn-dena.com/images/anime/10/81109.jpg</image>
 		<title>Neko no Dayan: Fushigi Gekijou</title>
@@ -320,7 +320,7 @@
 		<type>1</type>
 		<id name="myanimelist">33245</id>
 		<id name="hummingbird">12109</id>
-		<producers/>
+		<producers>EMT², DAX Production</producers>
 		<image>https://myanimelist.cdn-dena.com/images/anime/3/82186.jpg</image>
 		<title>Ame-iro Cocoa in Hawaii</title>
 	</anime>
@@ -360,7 +360,7 @@
 		<type>1</type>
 		<id name="myanimelist">34156</id>
 		<id name="hummingbird">12606</id>
-		<producers/>
+		<producers>DLE, TV Osaka, Sanrio, Being</producers>
 		<image>https://myanimelist.cdn-dena.com/images/anime/4/82157.jpg</image>
 		<title>PePePePengiin</title>
 	</anime>
@@ -496,7 +496,7 @@
 		<type>1</type>
 		<id name="myanimelist">33541</id>
 		<id name="hummingbird">12465</id>
-		<producers/>
+		<producers>Kyotoma, Pony Canyon Enterprise</producers>
 		<image>https://myanimelist.cdn-dena.com/images/anime/3/81924.jpg</image>
 		<title>Bishoujo Yuugi Unit Crane Game Girls Galaxy</title>
 	</anime>
@@ -807,7 +807,7 @@
 	<anime>
 		<type>1</type>
 		<id name="myanimelist">32663</id>
-		<id name="hummingbird"/>
+		<id name="hummingbird">12653</id>
 		<producers>Kachidoki Studio</producers>
 		<image>https://myanimelist.cdn-dena.com/images/anime/8/82187.jpg</image>
 		<title>Tama &amp; Friends: Uchi no Tama Shirimasenka?</title>
@@ -887,7 +887,7 @@
 	<anime>
 		<type>2</type>
 		<id name="myanimelist">33363</id>
-		<id name="hummingbird"/>
+		<id name="hummingbird">12654</id>
 		<producers>Zexcs</producers>
 		<image>https://myanimelist.cdn-dena.com/images/anime/4/82118.jpg</image>
 		<title>&quot;Eiyuu&quot; Kaitai</title>
@@ -931,5 +931,13 @@
 		<producers>AIC</producers>
 		<image>https://myanimelist.cdn-dena.com/images/anime/12/81932.jpg</image>
 		<title>Tenchi Muyou! Ryououki 4th Season</title>
+	</anime>
+	<anime>
+		<type>5</type>
+		<id name="myanimelist">34213</id>
+		<id name="hummingbird">12640</id>
+		<producers>Pine Jam, NBCUniversal Entertainment Japan, i0+</producers>
+		<image>https://myanimelist.cdn-dena.com/images/anime/3/82337.jpg</image>
+		<title>Getsuyoubi no Tawawa</title>
 	</anime>
 </season>
