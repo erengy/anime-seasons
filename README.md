@@ -6,7 +6,7 @@ This repository includes anime season data for [Taiga](https://github.com/erengy
 
 ## Seasons
 
-The data currently consists of all anime seasons between **Winter 2011** to **Fall 2016**.
+The data currently consists of all anime seasons between **Winter 2011** to **Winter 2017**.
 
 Seasons are laid out in the following manner. Note that the winter season starts in the previous year (e.g. Winter 2016 starts in December 2015):
 
