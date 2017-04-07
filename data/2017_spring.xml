@@ -1,0 +1,812 @@
+<?xml version='1.0' encoding='utf-8'?>
+<season>
+  <info>
+    <name>Spring 2017</name>
+    <modified>1491603294</modified>
+  </info>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">35002</id>
+    <producers>Pie in The Sky</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/7/84510.jpg</image>
+    <title>Ahare! Meisaku-kun: Meiji Saite Oishii Mozzarella</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">35009</id>
+    <producers>Millepensee</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/9/84535.jpg</image>
+    <title>Berserk (2016) Recap</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">35008</id>
+    <producers>A-Line</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/84532.jpg</image>
+    <title>Midori no Kuni no Otomodachi: Koeda-chan</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">33672</id>
+    <producers>TV Asahi, Asatsu DK, Toho, Fujiko F. Fujio Pro, Shogakukan, Shin-Ei Animation</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/84521.jpg</image>
+    <title>Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34304</id>
+    <producers>Tatsunoko Production</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/4/84541.jpg</image>
+    <title>PriPara Movie: Mi~nna de Kagayake! Kirarin☆Star Live!</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34535</id>
+    <producers>Gathering</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/84270.jpg</image>
+    <title>Koisuru Shirokuma</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34315</id>
+    <producers>The Answer Studio</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/82636.jpg</image>
+    <title>Shimajirou to Niji no Oasis</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">34893</id>
+    <producers>Signal. MD</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/8/84196.jpg</image>
+    <title>Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">33390</id>
+    <producers>WAO World, Studio Live</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/8/83943.jpg</image>
+    <title>Zunda Horizon</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34428</id>
+    <producers>Madhouse</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/83889.jpg</image>
+    <title>Overlord: Shikkoku no Tenshi</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34891</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/84189.jpg</image>
+    <title>Buppu na Mainichi</title>
+  </anime>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">35145</id>
+    <producers>Kyoto Animation</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/8/84751.jpg</image>
+    <title>Kobayashi-san Chi no Maid Dragon Specials</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">35142</id>
+    <producers>DLE</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/84748.jpg</image>
+    <title>Yoshida no Matsue Beauty Daisakusen</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">35143</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/13/84749.jpg</image>
+    <title>Yoshida no Matsue Beauty Daisakusen: Prologue</title>
+  </anime>
+  <anime>
+    <type>2</type>
+    <id name="myanimelist">34008</id>
+    <producers>MAPPA</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/81878.jpg</image>
+    <title>Days OVA</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">31658</id>
+    <producers>Production I.G</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/83106.jpg</image>
+    <title>Kuroko no Basket: Last Game</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">33204</id>
+    <producers>Warner Bros., Signal. MD</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/7/84071.jpg</image>
+    <title>Hirune Hime: Shiranai Watashi no Monogatari</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34302</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/83494.jpg</image>
+    <title>Precure Dream Stars!</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34374</id>
+    <producers>Studio Gokumi</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/8/82805.jpg</image>
+    <title>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou Movie 1 - Tomodachi</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34394</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/82855.jpg</image>
+    <title>Yuuki Yuuna wa Yuusha-bu Shozoku</title>
+  </anime>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">34534</id>
+    <producers>Shuka</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/4/83786.jpg</image>
+    <title>Natsume Yuujinchou Go Specials</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">34391</id>
+    <producers>Sunrise</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/13/83945.jpg</image>
+    <title>Mobile Suit Gundam Thunderbolt 2nd Season</title>
+  </anime>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">34855</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/84676.jpg</image>
+    <title>Gabriel DropOut Specials</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">34961</id>
+    <producers>Satelight</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/84446.jpg</image>
+    <title>Yume Oukoku to Nemureru 100 Nin no Ouji-sama: Short Stories</title>
+  </anime>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">35262</id>
+    <producers>Bones</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/11/84951.jpg</image>
+    <title>Boku no Hero Academia 2nd Season: Hero Note</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">35265</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/84955.jpg</image>
+    <title>Monster Strike 2: Katsubou no Hate no Risoukyou</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">35286</id>
+    <producers>DLE</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/10/84994.jpg</image>
+    <title>Henkei Shoujo</title>
+  </anime>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">33818</id>
+    <producers>J.C.Staff</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/81439.jpg</image>
+    <title>Amanchu! Special</title>
+  </anime>
+  <anime>
+    <type>2</type>
+    <id name="myanimelist">34125</id>
+    <producers>Production IMS</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/84267.jpg</image>
+    <title>High School Fleet OVA</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">25777</id>
+    <producers>Production I.G, Dentsu, Mainichi Broadcasting System, Pony Canyon, Kodansha, Mad Box, Shingeki no Kyojin Team, Pony Canyon Enterprise, FUNimation Entertainment, Wit Studio</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/4/84177.jpg</image>
+    <title>Shingeki no Kyojin Season 2</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">32936</id>
+    <producers>Emon, Haoliners Animation League</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/84412.jpg</image>
+    <title>Gin no Guardian</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33486</id>
+    <producers>Dentsu, Yomiuri Telecasting Corporation, Movic, Sony Music Entertainment, TOHO animation, Shueisha, FUNimation Entertainment, Bones</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/84547.jpg</image>
+    <title>Boku no Hero Academia 2nd Season</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">34670</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/7/84735.jpg</image>
+    <title>Monster Strike 2</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34836</id>
+    <producers>Xebec, OLM</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/84792.jpg</image>
+    <title>Future Card Buddyfight Battsu</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">31629</id>
+    <producers>Aniplex, Tohokushinsha Film Corporation, Cygames, Aniplex of America, A-1 Pictures</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/81630.jpg</image>
+    <title>Granblue Fantasy The Animation</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34019</id>
+    <producers>Animax, Toei Video, Pony Canyon, Studio NOIX, Hakuhodo DY Music &amp; Pictures, Futabasha, Hakuhodo, Kakao Japan, Zero-G</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/13/84461.jpg</image>
+    <title>Tsugumomo</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34350</id>
+    <producers>Bandai Visual, Lantis, Tokuma Shoten, Tokyo MX, Hakuhodo DY Music &amp; Pictures, Sony PCL, J.C.Staff</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/84598.jpg</image>
+    <title>Alice to Zouroku</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34905</id>
+    <producers>Ascension</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/10/84966.jpg</image>
+    <title>Duel Masters (2017)</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">35303</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/85025.jpg</image>
+    <title>Furusato Meguri Nippon no Mukashibanashi</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">35332</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/7/85088.jpg</image>
+    <title>World Fool News (TV) Part II</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34550</id>
+    <producers>TMS Entertainment, Nippon Columbia, Shogakukan Music &amp; Digital Entertainment, Shin-Ei Animation</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/85132.jpg</image>
+    <title>Warau Salesman New</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34823</id>
+    <producers>Kujou-kun no Bonnou wo Mimamoru Kai, Seven</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/4/84553.jpg</image>
+    <title>Souryo to Majiwaru Shikiyoku no Yoru ni...</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34901</id>
+    <producers>OLM</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/84704.jpg</image>
+    <title>Beyblade Burst God</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34928</id>
+    <producers>Fanworks</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/7/84307.jpg</image>
+    <title>Akindo Sei no Little Peso</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">35069</id>
+    <producers>TV Tokyo, ILCA</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/84611.jpg</image>
+    <title>Sekai no Yami Zukan</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">35295</id>
+    <producers>Studio Deen</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/85015.jpg</image>
+    <title>Washimo 5th Season</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">35349</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/85133.jpg</image>
+    <title>Marumofubiyori</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">32951</id>
+    <producers>Media Factory, AT-X, Kadokawa Pictures Japan, Ultra Super Pictures, Sony Music Communications, LIDENFILMS</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/84624.jpg</image>
+    <title>Rokudenashi Majutsu Koushi to Akashic Records</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33362</id>
+    <producers>NBCUniversal Entertainment Japan, C-Station</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/13/84655.jpg</image>
+    <title>Starmyu 2nd Season</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34257</id>
+    <producers>Frontier Works, Half H.P Studio, Nippon Columbia, Bandai Namco Entertainment, Anime Consortium Japan, Gathering</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/4/84350.jpg</image>
+    <title>Cinderella Girls Gekijou</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34427</id>
+    <producers>Frontier Works, Pony Canyon, Nippon Columbia, Sentai Filmworks, Zexcs, Studio A-CAT</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/85178.jpg</image>
+    <title>Frame Arms Girl</title>
+  </anime>
+  <anime>
+    <type>2</type>
+    <id name="myanimelist">34465</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/83086.jpg</image>
+    <title>Ao no Exorcist OVA</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34787</id>
+    <producers>Tatsunoko Production, Dongwoo A&amp;E</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/83920.jpg</image>
+    <title>Idol Time PriPara</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34979</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/84479.jpg</image>
+    <title>Shounen Ashibe: Go! Go! Goma-chan 2</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33475</id>
+    <producers>Nippon Columbia, Sentai Filmworks, Silver Link.</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/83995.jpg</image>
+    <title>Busou Shoujo Machiavellianism</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34102</id>
+    <producers>Asmik Ace Entertainment, Sentai Filmworks, David Production</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/84470.jpg</image>
+    <title>Sakurada Reset</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34262</id>
+    <producers>Square Enix, DAX Production, Avex Pictures, Bridge</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/11/85129.jpg</image>
+    <title>Oushitsu Kyoushi Haine</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34402</id>
+    <producers>Just Pro, Encourage Films</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/84377.jpg</image>
+    <title>Love Kome: We Love Rice</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34566</id>
+    <producers>Aniplex, Rakuonsha, Viz Media, Studio Pierrot</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/9/84460.jpg</image>
+    <title>Boruto: Naruto Next Generations</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34888</id>
+    <producers>Bushiroad, Tatsunoko Production</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/8/84731.jpg</image>
+    <title>Makeruna!! Aku no Gundan!</title>
+  </anime>
+  <anime>
+    <type>6</type>
+    <id name="myanimelist">35006</id>
+    <producers>Lantis, Sunrise</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/11/84529.jpg</image>
+    <title>Happy Party Train</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">35302</id>
+    <producers>NHK, Neft Film, Joker Films</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/8/85026.jpg</image>
+    <title>Neko Neko Nihonshi 2nd Season</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34494</id>
+    <producers>AT-X, Houbunsha, TOHO animation, BS11, ABC Animation, Sony PCL, FUNimation Entertainment, P.A. Works</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/7/85174.jpg</image>
+    <title>Sakura Quest</title>
+  </anime>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">35338</id>
+    <producers>A-1 Pictures</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/85115.jpg</image>
+    <title>Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service Kai</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">35369</id>
+    <producers>Toei Animation</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/85175.jpg</image>
+    <title>Seikaisuru Kado Episode 0</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">32032</id>
+    <producers>Toei Animation</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/13/84013.jpg</image>
+    <title>Seikaisuru Kado</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">32262</id>
+    <producers>TV Tokyo, Half H.P Studio, DIVE II Entertainment, Avex Pictures, EMT²</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/9/84266.jpg</image>
+    <title>Renai Boukun</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">32407</id>
+    <producers>TBS, NBCUniversal Entertainment Japan, Xebec</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/83460.jpg</image>
+    <title>Clockwork Planet</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33532</id>
+    <producers>J.C.Staff</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/84600.jpg</image>
+    <title>Kaitou Tenshi Twin Angel (TV)</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33840</id>
+    <producers>Kadokawa Shoten, Pony Canyon, TBS, Sentai Filmworks, Studio Deen</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/8/84617.jpg</image>
+    <title>Kabukibu!</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33926</id>
+    <producers>Tencent Animation, G.CMay Animation &amp; Film</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/7/81892.jpg</image>
+    <title>Quan Zhi Gao Shou</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33948</id>
+    <producers>Media Factory, Passione</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/84858.jpg</image>
+    <title>Hinako Note</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34055</id>
+    <producers>LIDENFILMS, Millepensee, GEMBA</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/9/84462.jpg</image>
+    <title>Berserk (2017)</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34537</id>
+    <producers>Science SARU</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/10/83287.jpg</image>
+    <title>Yoru wa Mijikashi Arukeyo Otome</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34822</id>
+    <producers>flying DOG, feel.</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/10/85173.jpg</image>
+    <title>Tsuki ga Kirei</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34927</id>
+    <producers>Studio Deen</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/13/84497.jpg</image>
+    <title>Rilu Rilu Fairilu: Mahou no Kagami</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">35015</id>
+    <producers>Fanworks</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/84548.jpg</image>
+    <title>Ani ni Tsukeru Kusuri wa Nai!</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">35112</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/84705.jpg</image>
+    <title>Panpaka Pants O New-san</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">30736</id>
+    <producers>Cygames, MAPPA</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/4/84530.jpg</image>
+    <title>Shingeki no Bahamut: Virgin Soul</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34106</id>
+    <producers>Sentai Filmworks, Brain's Base</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/8/84287.jpg</image>
+    <title>Kyoukai no Rinne (TV) 3rd Season</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34561</id>
+    <producers>Aniplex, Magic Capsule, Shogakukan, TROYCA</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/4/83599.jpg</image>
+    <title>Re:Creators</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34978</id>
+    <producers>TMS Entertainment</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/84890.jpg</image>
+    <title>Nobunaga no Shinobi: Ise Kanegasaki-hen</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">32901</id>
+    <producers>Aniplex, Aniplex of America, A-1 Pictures</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/84656.jpg</image>
+    <title>Eromanga-sensei</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33797</id>
+    <producers>Lantis, World Cosplay Summit, SANZIGEN</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/84421.jpg</image>
+    <title>ID-0</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34076</id>
+    <producers>Lantis, P.A. Works</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/83779.jpg</image>
+    <title>Uchouten Kazoku 2</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34176</id>
+    <producers>Lantis, Half H.P Studio, Happinet Pictures, Infinite, Sentai Filmworks, White Fox</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/8/84033.jpg</image>
+    <title>Zero kara Hajimeru Mahou no Sho</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33203</id>
+    <producers>Warner Bros., Sentai Filmworks, Brain's Base</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/9/83425.jpg</image>
+    <title>Fukumenkei Noise</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33502</id>
+    <producers>Lantis, DAX Production, Satelight, C2C</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/10/84689.jpg</image>
+    <title>Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34393</id>
+    <producers>Smiral Animation, TYPHOON GRAPHICS</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/84361.jpg</image>
+    <title>Room Mate</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34501</id>
+    <producers>Grooove, Project No.9, A-Real</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/9/85022.jpg</image>
+    <title>Kenka Banchou Otome: Girl Beats Boys</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34591</id>
+    <producers>Shuka</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/84416.jpg</image>
+    <title>Natsume Yuujinchou Roku</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">32596</id>
+    <producers>Level-5, OLM, OLM Digital</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/83341.jpg</image>
+    <title>The Snack World (TV)</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">30727</id>
+    <producers>Aniplex, Fuji TV, A-1 Pictures</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/84797.jpg</image>
+    <title>Saenai Heroine no Sodatekata ♭</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">32887</id>
+    <producers>Genco, SoftBank Creative Corp., Sentai Filmworks, J.C.Staff</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/7/84471.jpg</image>
+    <title>Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33371</id>
+    <producers>NHK, Tezuka Productions, NBCUniversal Entertainment Japan, Sentai Filmworks, Production I.G, OLM, Signal. MD</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/84560.jpg</image>
+    <title>Atom: The Beginning</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">33834</id>
+    <producers>Genco, AT-X, NBCUniversal Entertainment Japan, Tokyo MX, BS11, Artland, TNK</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/9/84614.jpg</image>
+    <title>Sin: Nanatsu no Taizai</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">34052</id>
+    <producers>OLM</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/83964.jpg</image>
+    <title>100% Pascal-sensei</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34244</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/3/84509.jpg</image>
+    <title>Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34375</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/4/84820.jpg</image>
+    <title>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou Movie 2 - Tamashii</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34430</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/83919.jpg</image>
+    <title>Detective Conan Movie 21: Deep Red Love Letter</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34741</id>
+    <producers>TBS, OLM</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/83751.jpg</image>
+    <title>Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu</title>
+  </anime>
+  <anime>
+    <type>1</type>
+    <id name="myanimelist">34799</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/10/83963.jpg</image>
+    <title>Puripuri Chii-chan!!</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">33845</id>
+    <producers>Kyoto Animation</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/84806.jpg</image>
+    <title>Free!: Timeless Medley - Kizuna</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34198</id>
+    <producers>Lantis, Bandai, OLM</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/82267.jpg</image>
+    <title>Kamisama Minarai: Himitsu no Cocotama Movie</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34310</id>
+    <producers>OLM</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/82642.jpg</image>
+    <title>Tamagotchi Movie: Tanpen Himitsu no Otodoke Daisakusen!</title>
+  </anime>
+  <anime>
+    <type>5</type>
+    <id name="myanimelist">35255</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/12/84931.jpg</image>
+    <title>Soutai Sekai</title>
+  </anime>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">34533</id>
+    <producers>comico</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/83264.jpg</image>
+    <title>Nanbaka Special</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">30778</id>
+    <producers>A-1 Pictures</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/2/84382.jpg</image>
+    <title>Fairy Tail Movie 2: Dragon Cry</title>
+  </anime>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">34644</id>
+    <producers>Silver Link.</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/8/83585.jpg</image>
+    <title>Brave Witches: Petersburg Daisenryaku</title>
+  </anime>
+  <anime>
+    <type>2</type>
+    <id name="myanimelist">34532</id>
+    <producers/>
+    <image/>
+    <title>Terra Formars OVA</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">34792</id>
+    <producers>Science SARU</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/84260.jpg</image>
+    <title>Yoake Tsugeru Lu no Uta</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">32086</id>
+    <producers>Polygon Pictures</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/13/84400.jpg</image>
+    <title>Blame! Movie</title>
+  </anime>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">34733</id>
+    <producers>TYPHOON GRAPHICS</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/5/83768.jpg</image>
+    <title>One Room Special</title>
+  </anime>
+  <anime>
+    <type>4</type>
+    <id name="myanimelist">35301</id>
+    <producers/>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/85023.jpg</image>
+    <title>Chiruran: Nibun no Ichi Special</title>
+  </anime>
+  <anime>
+    <type>3</type>
+    <id name="myanimelist">31853</id>
+    <producers>Marza Animation Planet</producers>
+    <image>https://myanimelist.cdn-dena.com/images/anime/6/83300.jpg</image>
+    <title>Biohazard: Vendetta</title>
+  </anime>
+</season>
