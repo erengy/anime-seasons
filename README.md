@@ -2,7 +2,7 @@
 
 This repository includes anime season data for [Taiga](https://github.com/erengy/taiga), where it is used to display interactive season charts:
 
-![Seasons](https://i.imgur.com/4GAkBXs.png)
+![Seasons](https://i.imgur.com/yrTF0PN.png)
 
 ## Seasons
 
