@@ -2,11 +2,11 @@
 
 This repository includes anime season data for [Taiga](https://github.com/erengy/taiga), where it is used to display interactive season charts:
 
-![Seasons](https://i.imgur.com/yrTF0PN.png)
+![Seasons](https://i.imgur.com/BrV9cho.png)
 
 ## Seasons
 
-The data currently consists of all anime seasons between **Winter 2011** to **Winter 2018**.
+The data currently consists of all anime seasons between **Winter 2011** to **Spring 2018**.
 
 Seasons are laid out in the following manner. Note that the winter season starts in the previous year (e.g. Winter 2016 starts in December 2015):
 
